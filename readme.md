@@ -6,6 +6,10 @@ Scenario, du har en eller flera bilder som du vill använda på en webbplats. Bi
 
 En typisk upplösning för en sådan bild är någon form av 4k variant med JPG som format och en filstorlek på 4-8 MB. Det är för mycket för att visa på en webbplats. Det är också för mycket för att ladda ner på en mobiltelefon.
 
+## Läs mer
+
+Detta är ett komplement till [Område bilder](https://webbutveckling.jensa.dev/media/bilder/)
+
 ## Förberedelser
 
 Den här guiden använder Photoshop, så du behöver det.
