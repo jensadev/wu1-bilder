@@ -2,6 +2,8 @@
 
 Scenario, du har en eller flera bilder som du vill använda på en webbplats. Bilderna är fotade med en mobiltelefon och har stor upplösning. Du vill att de ska visas på webbplatsen med en storlek som inte är större än vad som behövs för att visa dem på skärmen. Du vill också att de ska vara så lätta som möjligt att ladda ner.
 
+![Skogen](assets/resized-IMG_20220828_130348.jpg)
+
 En typisk upplösning för en sådan bild är någon form av 4k variant med JPG som format och en filstorlek på 4-8 MB. Det är för mycket för att visa på en webbplats. Det är också för mycket för att ladda ner på en mobiltelefon.
 
 ## Förberedelser
